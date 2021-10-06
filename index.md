@@ -3,6 +3,11 @@
 
 Multi Domain AI focused web development Human Rights focused Web and Knowledge Management Systems to ensure safe passage of human and animal migration
 
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/_rgEtASwZ__XWft12HGajQ/664257450440032256" data-did="60e3db24b3eb61eb1eaebc9cf9ee210217b9e55e"><a href="https://onehundreddaysofcode.tumblr.com/post/664257450440032256/twitter-use-case-my-use-case-is-for-education-and">https://onehundreddaysofcode.tumblr.com/post/664257450440032256/twitter-use-case-my-use-case-is-for-education-and</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
+
+
 You can use the [editor on GitHub](https://github.com/advometrics-ai/advometrics-ai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
