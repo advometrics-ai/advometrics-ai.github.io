@@ -7,6 +7,9 @@ Multi Domain AI focused web development Human Rights focused Web and Knowledge M
 
 
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/5ZXI2tHQh9Oj1bMDekn-jQ/658666418240389120" data-did="a85339abdade6faa834c0a59d6b1c619946f40c7"><a href="https://mytransparenttown.tumblr.com/post/658666418240389120/august-5-2021-under-a-dead-ohio-sky">https://mytransparenttown.tumblr.com/post/658666418240389120/august-5-2021-under-a-dead-ohio-sky</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+
 
 You can use the [editor on GitHub](https://github.com/advometrics-ai/advometrics-ai.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
