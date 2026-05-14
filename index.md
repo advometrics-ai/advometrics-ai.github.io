@@ -5,6 +5,9 @@ Sheryl began her career working as a research analyst at a software development 
 
 <img width="712" height="571" alt="507284930_1283334223315075_4495195488203209829_n" src="https://github.com/user-attachments/assets/8e7b52b2-4778-42b3-bcbb-b153873ffb26" />
 
+<img width="1600" height="900" alt="Screenshot 2024-08-26 074655" src="https://github.com/user-attachments/assets/1e81ce91-f6a3-4b33-88c9-fe6f2b12f91f" />
+
+
 
 
 
